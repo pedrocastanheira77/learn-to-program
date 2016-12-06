@@ -7,7 +7,7 @@ library = [["I",1],
            ["M",1000]]
 
 def question
-  print "\nInsert a number to convert in old school roman numerals => "
+  print "\nInsert a number to convert in roman numerals => "
   gets.chomp.to_i
 end
 
